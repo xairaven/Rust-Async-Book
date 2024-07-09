@@ -15,6 +15,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 
 ### Table of Contents
 1. [Getting Started](./01-Getting-Started)
+2. [Under the Hood: Executing Futures and Tasks](./02-Under-the-Hood)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
