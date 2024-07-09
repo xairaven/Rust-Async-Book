@@ -14,7 +14,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 **Async-Book: https://rust-lang.github.io/async-book/**
 
 ### Table of Contents
-1. []()
+1. [Getting Started](./01-Getting-Started)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
