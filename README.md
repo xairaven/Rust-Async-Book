@@ -18,6 +18,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 2. [Under the Hood: Executing Futures and Tasks](./02-Under-the-Hood)
 3. [async/await](./03-async-await)
 4. [Pinning](./04-Pinning)
+5. [Streams](./05-Streams)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
