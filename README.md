@@ -20,6 +20,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 4. [Pinning](./04-Pinning)
 5. [Streams](./05-Streams)
 6. [Executing Multiple Futures at a Time](./06-Executing-Multiple-Futures-at-a-Time)
+7. [Workarounds to Know and Love](./07-Workarounds-to-Know-and-Love)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
