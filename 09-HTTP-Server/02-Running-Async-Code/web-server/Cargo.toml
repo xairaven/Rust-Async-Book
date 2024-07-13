@@ -1,0 +1,10 @@
+[package]
+name = "web-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dependencies.async-std]
+version = "1.6"
+features = ["attributes"]
