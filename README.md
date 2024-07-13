@@ -22,6 +22,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 6. [Executing Multiple Futures at a Time](./06-Executing-Multiple-Futures-at-a-Time)
 7. [Workarounds to Know and Love](./07-Workarounds-to-Know-and-Love)
 8. [The Async Ecosystem (No Code)](https://rust-lang.github.io/async-book/08_ecosystem/00_chapter.html)
+9. [Final Project: HTTP Server](./09-HTTP-Server)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
